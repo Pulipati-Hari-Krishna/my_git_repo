@@ -1,9 +1,10 @@
-<<<<<<< HEAD
+
 HELLO WORLD!!!!.....
 
 Added----boom again bug fix in conflicts 
-=======
+
 HELLO WORLD!!!!
 
 Added Boom for bug fix
->>>>>>> bug2
+
+IN the master added this
