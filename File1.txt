@@ -14,3 +14,5 @@ Added this for bugBoom
   (boom bug)
 
 For Stashing test
+
+From local to remote
